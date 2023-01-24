@@ -1,4 +1,5 @@
 # PetriObjModelPaint 
+Changed code for doing kr. The original code: https://github.com/StetsenkoInna/PetriObjModelPaint
 Notice: AbsoluteLayout.jar library should be added to the project if not NetBeans IDE is used.
 
 PetriObjModelPaint is the project of Petri-object simulation technique implementation. Petri-object simulation technique, the main concept of which is to compose the code of model of complicated discrete event system in a fast and flexible way, simultaneously providing fast running the simulation, is requisite. The behaviour description of the model based on stochastic multichannel Petri net while the model composition is grounded on object-oriented technology. 
